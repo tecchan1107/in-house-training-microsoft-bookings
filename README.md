@@ -1,5 +1,5 @@
-# 社内研修予約ページを Microsoft Bookings で作ってみた！
-Microsoft Bookings を触ったことがなかったので、試しに次のような社内研修予約ページを作成してみました。
+# 社内研修&1on1質問部屋予約ページを Microsoft Bookings で作ってみた！
+Microsoft Bookings を触ったことがなかったので、試しに次のような社内研修&1on1質問部屋予約ページを作成してみました。
 
 ![社内研修一覧](./ja/assets/社内研修一覧.png)
 
