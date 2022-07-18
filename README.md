@@ -1,5 +1,5 @@
-# 社内研修&1on1質問部屋予約ページを Microsoft Bookings で作ってみた！
-Microsoft Bookings を触ったことがなかったので、試しに次のような社内研修&1on1質問部屋予約ページを作成してみました。
+# 社内研修予約ページを Microsoft Bookings で作ってみた！
+Microsoft Bookings を触ったことがなかったので、試しに次のような社内研修 &1on1質問部屋予約ページを作成してみました。
 
 ![社内研修一覧](./ja/assets/社内研修一覧.png)
 
@@ -23,13 +23,14 @@ Microsoft Bookings を触ったことがなかったので、試しに次のよ�
 ※詳細には記載しておらず、メモ程度です。自分で後で思い出す用です。<br />
 ※初めて触ったため、間違ったことが記載されている可能性があります。<br />
 
-## 目次（Japanese）
+## 作成手順（Japanese）
 1. [予定表の作成](ja/10-Bookingsの予定表の作成.md)
 2. [指定日時に開催する研修サービスの登録](ja/20-指定日時に開催する研修サービスの登録.md)
 3. [講師の空き時間に予約できる研修サービスの登録](ja/30-講師の空き時間に予約できる研修サービスの登録.md)
 4. [指定日時に開催する研修サービスの開催日時の登録](ja/40-指定日時に開催する研修サービスの開催日時の登録.md)
+5. [予約ページの設定変更](ja/50-予約ページの設定変更.md)
 
-## 目次（English）
+## 作成手順（English）
 
 ## 関連リンク（Japanese）
 - [Microsoft Docs - Microsoft Bookings](https://docs.microsoft.com/ja-jp/microsoft-365/bookings/bookings-overview?view=o365-worldwide&WT.mc_id=M365-MVP-5004242)
