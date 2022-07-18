@@ -23,7 +23,7 @@ Microsoft Bookings を触ったことがなかったので、試しに次のよ�
 ※詳細には記載しておらず、メモ程度です。自分で後で思い出す用です。<br />
 ※初めて触ったため、間違ったことが記載されている可能性があります。<br />
 
-## 予約ページ作成・通知手順（Japanese）
+## 予約ページの作成・通知手順（Japanese）
 1. [予定表の作成](ja/10-Bookingsの予定表の作成.md)
 2. [指定日時に開催する研修サービスの登録](ja/20-指定日時に開催する研修サービスの登録.md)
 3. [講師の空き時間に予約できる研修サービスの登録](ja/30-講師の空き時間に予約できる研修サービスの登録.md)
@@ -40,4 +40,5 @@ Microsoft Bookings を触ったことがなかったので、試しに次のよ�
 
 ## 関連リンク（English）
 - [Microsoft Docs - Microsoft Bookings](https://docs.microsoft.com/en-us/microsoft-365/bookings/bookings-overview?view=o365-worldwide&WT.mc_id=M365-MVP-5004242)
+- [Manage the Bookings app in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/bookings-app-admin?WT.mc_id=M365-MVP-5004242)
 - [Microsoft Learn - Automate scheduling with Microsoft Bookings](https://docs.microsoft.com/en-us/learn/modules/automate-scheduling-microsoft-bookings/?WT.mc_id=M365-MVP-5004242)
